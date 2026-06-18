@@ -1,8 +1,5 @@
 # Hello, I'm Mohannad Hany! 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW01Mndic3R5bXNham95cmV0b3V0Yms1bTk2b3V3ZzVwZndpOHR4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Software Engineer GIF">
-</div>
 
 I am a passionate software developer dedicated to building efficient, scalable, and user-friendly applications. I thrive at the intersection of creative front-end design and robust back-end logic.
 
