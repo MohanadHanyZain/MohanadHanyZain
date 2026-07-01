@@ -1,12 +1,11 @@
 # Hello, I'm Mohannad Hany! 👋
 
-<!-- عداد الزوار وإحصائيات الحساب -->
+<!-- عداد الزوار وإحصائيات الحساب التلقائية -->
 <p align="left">
   <img src="https://glitch.me" alt="Visitor Count" height="28" />
   &nbsp;&nbsp;
   <img src="https://shields.io" alt="GitHub Followers" />
 </p>
-
 
 I am a passionate software developer dedicated to building efficient, scalable, and user-friendly applications. I thrive at the intersection of creative front-end design and robust back-end logic.
 
@@ -39,6 +38,11 @@ I am a passionate software developer dedicated to building efficient, scalable, 
 
 ---
 
+### 📊 GitHub Stats
+![Mohannad's GitHub Stats](https://vercel.app)
+
+---
+
 ### 🚀 Featured Project
 **AL-RAED LAW**
 *   **Description:** A professional introductory website for a law firm in Riyadh, featuring a sleek, modern UI to enhance client engagement and streamline consultation bookings.
@@ -48,8 +52,9 @@ I am a passionate software developer dedicated to building efficient, scalable, 
 ---
 
 ### 📫 Let's Connect!
-*   ✉️ **Email:** mohanedzainelabden2024@gmail.com
-*   🐦 **X (Twitter):** [@mohandcodes](https://x.com/mohandcodes)
+[![Email](https://shields.io)](mailto:mohanedzainelabden2024@gmail.com)
+[![X (Twitter)](https://shields.io)](https://x.com/mohandcodes)
 
 ---
 <p align="center">Always learning, always building.</p>
+
