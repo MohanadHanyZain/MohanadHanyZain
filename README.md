@@ -1,11 +1,5 @@
 # Hello, I'm Mohannad Hany! 👋
 
-<!-- عداد الزوار وإحصائيات الحساب التلقائية المستقرة -->
-<p align="left">
-  <img src="https://seeyoufarm.com" alt="Visitor Count" />
-  &nbsp;&nbsp;
-  <img src="https://shields.io" alt="GitHub Followers" />
-</p>
 
 I am a passionate software developer dedicated to building efficient, scalable, and user-friendly applications. I thrive at the intersection of creative front-end design and robust back-end logic.
 
